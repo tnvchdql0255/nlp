@@ -1,0 +1,4 @@
+reviews:
+    css: 'div.data-asin'
+    multiple: true
+    type: Text
